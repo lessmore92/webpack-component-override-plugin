@@ -8,7 +8,6 @@ yarn add -D webpack-component-override-plugin
 ## Config
 ```js
 // webpack.config.js
-const path = require('path');
 const ComponentOverridePlugin = require('webpack-component-override-plugin')
 module.exports = {
   ...

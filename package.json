@@ -1,6 +1,6 @@
 {
   "name": "webpack-component-override-plugin",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "override an already exist component without changes on main component",
   "main": "src/index.js",
   "repository": "https://github.com/lessmore92/webpack-component-override-plugin",
